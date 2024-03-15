@@ -1,0 +1,29 @@
+header {
+    background-color: rgb(183, 183, 202);
+    color: rgb(49, 49, 118);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#aga1{
+    color: rgb(49, 49, 118);
+}
+
+#pazul{
+    color:rgb(69, 69, 255);
+}
+
+#pverde{
+    color:rgb(68, 180, 100);
+}
+
+#linkvermelho{
+    color: red;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#linkroxo{
+    color: purple;
+}
