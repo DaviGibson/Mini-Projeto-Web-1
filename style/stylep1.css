@@ -15,7 +15,7 @@ header {
 }
 
 #pverde{
-    color:rgb(68, 180, 100);
+    color:rgb(40, 120, 63);
 }
 
 #linkvermelho{
@@ -24,6 +24,53 @@ header {
     text-decoration: none;
 }
 
-#linkroxo{
+#linkroxo
+{
     color: purple;
+}
+
+#lAmarela{
+    color: rgb(255, 182, 12);
+    list-style-type: square;
+}
+
+#lVinho{
+    color: rgb(106, 16, 16);
+    list-style-type:circle ;
+    
+}
+
+#divTabela{
+    margin-left: 8px;
+    margin-right: 4px;
+
+}
+
+#tabCentra{
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 75%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    
+}
+
+#fileiras:nth-child(odd){
+    background-color: rgb(134, 149, 197);
+}
+
+#fileiras:nth-child(even){
+    background-color: rgb(195, 195, 195);
+}
+
+#divCentralizada{
+    text-align: center;
+    font-size: 70% ;
 }

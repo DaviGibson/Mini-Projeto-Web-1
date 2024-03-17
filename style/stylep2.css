@@ -1,104 +1,96 @@
 #tabuleiro{
 
-    border: 1pxsolidblack;
-    
+    border: 1px solid black;
     border-collapse: collapse;
-    
     width: 600px;
-    
     height: 600px;
     
-    }
+}
     
-    td{
-    
+td{
     height: 75px;
-    
     width: 75px; 
+
+}
     
-    }
-    
-    #grey{
-    
+#grey{
     background-color: rgb(109, 108, 108);
+
+}
     
-    }
-    
-    #imgs{
-    
+#imgs{
     height: 100%;
-    
     width: 100%; 
     
-    }
+}
 
-    #rPreto{
-        height: 100%;
-        width: 50%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 3px;
+#rPreto{
+    height: 100%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
 
-    }
+}
 
-    #rPreta{
-        height: 90%;
-        width: 50%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#rPreta{
+    height: 90%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    #pPreto{
-        height: 60%;
-        width: 100%;
-    }
+#pPreto{
+    height: 60%;
+    width: 100%;
+}
 
-    #pBranco{
-        height: 60%;
-        width: 60%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#pBranco{
+    height: 60%;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    #tBranca{
-        height: 60%;
-        width: 60%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#tBranca{
+    height: 60%;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    #rBranco{
-        height: 70%;
-        width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#rBranco{
+    height: 70%;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    #cBranco{
-        height: 70%;
-        width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#cBranco{
+    height: 70%;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    #cPreto{
-        height: 60%;
-        width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#cPreto{
+    height: 60%;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    #bispos{
-        height: 70%;
-        width: 70%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+#bispos{
+    height: 70%;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
