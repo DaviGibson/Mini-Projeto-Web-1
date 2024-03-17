@@ -1,0 +1,131 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+#titulo{
+    color: rgb(138, 121, 248);
+    text-align: center;
+}
+
+#parag{
+    text-align: center;
+    margin-left: 470px;
+    margin-right: 470px;
+}
+
+#testeGrat{
+    background-color: rgb(125, 172, 215);
+    text-align: center;
+/*    position: absolute; /* Define o posicionamento absoluto */
+/*    transform: translateX(-50%); /* Considera o começo do div no meio */
+/*    left:50%; /* Posiciona o div horizontalmente no centro da página */
+    
+    display: flex; /* Torna o container um flex container */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    margin-left: 600px;
+    margin-right: 600px;
+
+    border: 1px solid  rgb(125, 172, 215); /* Adiciona uma borda sólida de 2 pixels */
+    padding: 10px; /* Adiciona algum preenchimento interno */
+    border-radius: 10px; /* Define os cantos arredondados com um raio de 10 pixels */
+
+}
+
+#divTabela{
+    margin-top: 50px;
+    margin-left: 125px;
+    margin-right: 125px;
+
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#celHeader{
+    border: 1px solid rgb(168, 168, 168);
+    color: rgb(168, 168, 168);
+    padding: 8px;
+    text-align: center;
+}
+
+#celPreco1{
+    background-color: rgb(111, 131, 246);
+    padding: 8px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    border: 1px solid rgb(168, 168, 168);
+}
+
+#celPreco2{
+    background-color: rgb(56, 85, 250);
+    padding: 8px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    border: 1px solid rgb(168, 168, 168);
+}
+
+#celPreco3{
+    background-color: rgb(33, 66, 254);
+    padding: 8px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    border: 1px solid rgb(168, 168, 168);
+}
+
+#celNormal{
+    border: 1px solid rgb(168, 168, 168);
+    text-align: center;
+    padding: 8px;
+}
+
+#celEsq{
+    border: 1px solid rgb(168, 168, 168);
+    padding: 8px;
+}
+
+#botao1{
+    background-color: rgb(111, 131, 246);
+    color: white;
+    border: 1px solid rgb(111, 131, 246);
+    padding: 10px; 
+    border-radius: 8px;
+    width: 60%;
+    display: flex; 
+    justify-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+#botao2{
+    background-color:  rgb(56, 85, 250);
+    color: white;
+    border: 1px solid  rgb(56, 85, 250);
+    padding: 10px; 
+    border-radius: 8px;
+    width: 60%;
+    display: flex; 
+    justify-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+#botao3{
+    background-color:  rgb(33, 66, 254);
+    color: white;
+    border: 1px solid  rgb(33, 66, 254);
+    padding: 10px; 
+    border-radius: 8px;
+    width: 60%;
+    display: flex; 
+    justify-content: center;
+    margin-left: 17%;
+    margin-right: 15%;
+
+}
